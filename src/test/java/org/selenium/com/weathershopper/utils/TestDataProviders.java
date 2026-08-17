@@ -1,8 +1,8 @@
-package org.selenium.com.uiautomation.utils;
+package org.selenium.com.weathershopper.utils;
 
 import java.util.List;
 
-import org.selenium.com.uiautomation.utils.pojo.ProductPojo;
+import org.selenium.com.weathershopper.utils.pojo.ProductPojo;
 import org.testng.annotations.*;
 import com.fasterxml.jackson.core.type.TypeReference;
 

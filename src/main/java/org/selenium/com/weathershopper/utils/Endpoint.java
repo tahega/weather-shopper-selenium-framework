@@ -1,4 +1,4 @@
-package org.selenium.com.uiautomation.utils;
+package org.selenium.com.weathershopper.utils;
 
 public class Endpoint {
 

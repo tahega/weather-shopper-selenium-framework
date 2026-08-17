@@ -1,8 +1,8 @@
-package org.selenium.com.uiautomation.pages;
+package org.selenium.com.weathershopper.pages;
 
 import org.openqa.selenium.WebDriver;
-import org.selenium.com.uiautomation.base.BasePage;
-import org.selenium.com.uiautomation.utils.Endpoint;
+import org.selenium.com.weathershopper.base.BasePage;
+import org.selenium.com.weathershopper.utils.Endpoint;
 
 public class MositurizerPage extends BasePage {
 

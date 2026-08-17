@@ -1,4 +1,4 @@
-package org.selenium.com.uiautomation.base;
+package org.selenium.com.weathershopper.base;
 
 import java.time.Duration;
 import java.util.List;

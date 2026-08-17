@@ -1,4 +1,4 @@
-package org.selenium.com.uiautomation.utils;
+package org.selenium.com.weathershopper.utils;
 
 import org.openqa.selenium.InvalidElementStateException;
 import org.openqa.selenium.WebDriver;

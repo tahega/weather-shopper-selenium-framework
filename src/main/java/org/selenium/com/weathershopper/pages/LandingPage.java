@@ -1,9 +1,9 @@
-package org.selenium.com.uiautomation.pages;
+package org.selenium.com.weathershopper.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.selenium.com.uiautomation.base.BasePage;
-import org.selenium.com.uiautomation.utils.PropertyLoader;
+import org.selenium.com.weathershopper.base.BasePage;
+import org.selenium.com.weathershopper.utils.PropertyLoader;
 
 public class LandingPage extends BasePage {
 

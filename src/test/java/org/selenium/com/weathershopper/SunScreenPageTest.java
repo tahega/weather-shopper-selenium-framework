@@ -1,4 +1,4 @@
-package org.selenium.com.uiautomation;
+package org.selenium.com.weathershopper;
 
 import java.util.List;
 import java.util.regex.Matcher;
@@ -6,11 +6,11 @@ import java.util.regex.Pattern;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
-import org.selenium.com.uiautomation.listeners.Retry;
-import org.selenium.com.uiautomation.pages.SunscreenPage;
-import org.selenium.com.uiautomation.utils.Endpoint;
-import org.selenium.com.uiautomation.utils.TestDataProviders;
-import org.selenium.com.uiautomation.utils.pojo.ProductPojo;
+import org.selenium.com.weathershopper.pages.SunscreenPage;
+import org.selenium.com.weathershopper.utils.Endpoint;
+import org.selenium.com.weathershopper.listeners.Retry;
+import org.selenium.com.weathershopper.utils.TestDataProviders;
+import org.selenium.com.weathershopper.utils.pojo.ProductPojo;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

@@ -1,8 +1,9 @@
-package org.selenium.com.uiautomation;
+package org.selenium.com.weathershopper;
 
 import org.testng.annotations.Test;
-import org.selenium.com.uiautomation.pages.MositurizerPage;
-import org.selenium.com.uiautomation.pages.SunscreenPage;
+import org.selenium.com.weathershopper.pages.MositurizerPage;
+import org.selenium.com.weathershopper.pages.SunscreenPage;
+
 import org.testng.Assert;
 
 public class MainPageTest extends BaseTest {

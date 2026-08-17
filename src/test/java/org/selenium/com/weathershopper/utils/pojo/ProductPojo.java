@@ -1,4 +1,4 @@
-package org.selenium.com.uiautomation.utils.pojo;
+package org.selenium.com.weathershopper.utils.pojo;
 
 public class ProductPojo {
     private String name;

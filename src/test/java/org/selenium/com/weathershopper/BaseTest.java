@@ -1,10 +1,10 @@
-package org.selenium.com.uiautomation;
+package org.selenium.com.weathershopper;
 
 import java.io.IOException;
 
 import org.openqa.selenium.WebDriver;
-import org.selenium.com.uiautomation.pages.LandingPage;
-import org.selenium.com.uiautomation.utils.BrowserManager;
+import org.selenium.com.weathershopper.pages.LandingPage;
+import org.selenium.com.weathershopper.utils.BrowserManager;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 

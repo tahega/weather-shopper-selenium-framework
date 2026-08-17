@@ -1,4 +1,4 @@
-package org.selenium.com.uiautomation.pages;
+package org.selenium.com.weathershopper.pages;
 
 import java.util.List;
 import java.util.NoSuchElementException;
@@ -6,8 +6,8 @@ import java.util.NoSuchElementException;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.selenium.com.uiautomation.base.BasePage;
-import org.selenium.com.uiautomation.utils.Endpoint;
+import org.selenium.com.weathershopper.base.BasePage;
+import org.selenium.com.weathershopper.utils.Endpoint;
 
 public class SunscreenPage extends BasePage {
 

@@ -1,4 +1,4 @@
-package org.selenium.com.uiautomation.utils;
+package org.selenium.com.weathershopper.utils;
 
 import java.io.IOException;
 import java.io.InputStream;
