@@ -1,9 +1,8 @@
-package org.bp.com.uiautomation;
+package org.selenium.com.uiautomation;
 
-import org.bp.com.uiautomation.pages.MositurizerPage;
-import org.bp.com.uiautomation.pages.SunscreenPage;
 import org.testng.annotations.Test;
-
+import org.selenium.com.uiautomation.pages.MositurizerPage;
+import org.selenium.com.uiautomation.pages.SunscreenPage;
 import org.testng.Assert;
 
 public class MainPageTest extends BaseTest {

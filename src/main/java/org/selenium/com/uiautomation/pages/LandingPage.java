@@ -1,9 +1,9 @@
-package org.bp.com.uiautomation.pages;
+package org.selenium.com.uiautomation.pages;
 
-import org.bp.com.uiautomation.base.BasePage;
-import org.bp.com.uiautomation.utils.PropertyLoader;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.selenium.com.uiautomation.base.BasePage;
+import org.selenium.com.uiautomation.utils.PropertyLoader;
 
 public class LandingPage extends BasePage {
 

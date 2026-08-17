@@ -1,4 +1,4 @@
-package org.bp.com.uiautomation.utils;
+package org.selenium.com.uiautomation.utils;
 
 public class Endpoint {
 

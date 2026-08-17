@@ -1,8 +1,8 @@
-package org.bp.com.uiautomation.pages;
+package org.selenium.com.uiautomation.pages;
 
-import org.bp.com.uiautomation.base.BasePage;
-import org.bp.com.uiautomation.utils.Endpoint;
 import org.openqa.selenium.WebDriver;
+import org.selenium.com.uiautomation.base.BasePage;
+import org.selenium.com.uiautomation.utils.Endpoint;
 
 public class MositurizerPage extends BasePage {
 

@@ -1,15 +1,16 @@
-package org.bp.com.uiautomation;
+package org.selenium.com.uiautomation;
 
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import org.bp.com.uiautomation.utils.pojo.ProductPojo;
-import org.bp.com.uiautomation.listeners.Retry;
-import org.bp.com.uiautomation.pages.SunscreenPage;
-import org.bp.com.uiautomation.utils.Endpoint;
-import org.bp.com.uiautomation.utils.TestDataProviders;
+
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
+import org.selenium.com.uiautomation.listeners.Retry;
+import org.selenium.com.uiautomation.pages.SunscreenPage;
+import org.selenium.com.uiautomation.utils.Endpoint;
+import org.selenium.com.uiautomation.utils.TestDataProviders;
+import org.selenium.com.uiautomation.utils.pojo.ProductPojo;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

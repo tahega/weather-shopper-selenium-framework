@@ -1,4 +1,4 @@
-package org.bp.com.uiautomation.base;
+package org.selenium.com.uiautomation.base;
 
 import java.time.Duration;
 import java.util.List;

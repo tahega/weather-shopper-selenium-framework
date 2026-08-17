@@ -1,10 +1,10 @@
-package org.bp.com.uiautomation.utils;
+package org.selenium.com.uiautomation.utils;
 
 import java.util.List;
+
+import org.selenium.com.uiautomation.utils.pojo.ProductPojo;
 import org.testng.annotations.*;
 import com.fasterxml.jackson.core.type.TypeReference;
-
-import org.bp.com.uiautomation.utils.pojo.ProductPojo;
 
 public class TestDataProviders {
 

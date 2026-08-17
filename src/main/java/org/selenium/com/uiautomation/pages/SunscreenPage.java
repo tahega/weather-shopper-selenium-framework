@@ -1,13 +1,13 @@
-package org.bp.com.uiautomation.pages;
+package org.selenium.com.uiautomation.pages;
 
 import java.util.List;
 import java.util.NoSuchElementException;
 
-import org.bp.com.uiautomation.base.BasePage;
-import org.bp.com.uiautomation.utils.Endpoint;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.selenium.com.uiautomation.base.BasePage;
+import org.selenium.com.uiautomation.utils.Endpoint;
 
 public class SunscreenPage extends BasePage {
 

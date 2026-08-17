@@ -1,4 +1,4 @@
-package org.bp.com.uiautomation;
+package org.selenium.com.uiautomation;
 
 public class MoisturizerPageTest {
 

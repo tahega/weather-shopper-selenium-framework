@@ -1,10 +1,10 @@
-package org.bp.com.uiautomation;
+package org.selenium.com.uiautomation;
 
 import java.io.IOException;
 
 import org.openqa.selenium.WebDriver;
-import org.bp.com.uiautomation.pages.LandingPage;
-import org.bp.com.uiautomation.utils.BrowserManager;
+import org.selenium.com.uiautomation.pages.LandingPage;
+import org.selenium.com.uiautomation.utils.BrowserManager;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
